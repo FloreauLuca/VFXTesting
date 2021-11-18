@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SDFLine
+  m_Shader: {fileID: -6465566751694194690, guid: 2345482771a58cf4585bb9ec867cc99f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_036e21cc7cbe4132a11d1b5362d5ef9e: 0
+    - Vector1_fee647941e984dab9c481dbaecc5916b: 1
+    - _Cripness: 0.5
+    - _Thickness: 0.5
+    m_Colors:
+    - Color_11ddf4ec818d44aeb63c3fbf56010410: {r: 1, g: 1, b: 1, a: 0}
+    - Color_6cfc617fa57544b1955379e79a6ac822: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_aa15a2bb136947238f9c1511664f8a07: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_d331cb27793d4fb18bb038e5ed6d151d: {r: 0, g: 0, b: 0, a: 0}
+    - _BGColor: {r: 0.14017443, g: 0.23431243, b: 0.4716981, a: 1}
+    - _LineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PointA: {r: 0, g: 5, b: 0, a: 0}
+    - _PointB: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CirclesMat
+  m_Shader: {fileID: -6465566751694194690, guid: 065d0f8c9d83ac443949c4fdb693802e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4ad73eaad461418b90727a89ba8672f7: 0.05
+    - Vector1_4ea4336cf204488ca2c9c0ca06a1e6b3: 3.72
+    - Vector1_baffccdb8b7b4d51a21fc9068326eb1f: 0.5
+    - Vector1_d9615bc1bad844c5b9888f030c8e34c0: 0.6
+    - Vector1_e953fdcfe7a244adbfcae6c0d51c8552: 0.07
+    - Vector1_f0c946b4b9c34e07a55a33cf536f3bdd: 1
+    - _Completion: 0
+    - _Space: 0.1
+    m_Colors:
+    - Color_6f798716f7644d5fbc68aa29f7762f57: {r: 1, g: 0.86742955, b: 0, a: 0}
+    - Color_e2ee2896cdc74b5ab7007c7bf92fceae: {r: 4, g: 2.86911, b: 0, a: 0}
+  m_BuildTextureStacks: []

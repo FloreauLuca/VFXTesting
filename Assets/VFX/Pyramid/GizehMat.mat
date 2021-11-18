@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GizehMat
+  m_Shader: {fileID: -6465566751694194690, guid: 98b7a0330a5e35244a011919ac13417b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - NoiseEdge: 0.0282
+    - RandomEdge: 0
+    - RandomTiling: 6.6792164
+    - Tiling: 6.6792164
+    - Vector1_517f0b640463481a9a3b617bd481a13e: 5
+    - Vector1_606711256bfe414db01017df89994812: 13.23
+    - Vector1_6a4155f913b84669bf8879ba9fc10419: 4.86
+    - Vector1_cf1c3c33553b414ca1c0763da9ed9df9: 2.63
+    m_Colors:
+    - Color_1: {r: 0.5943396, g: 0.44801968, b: 0.17661977, a: 0}
+    - Color_2482d671740a4529a8c88d8357798de3: {r: 0.44339618, g: 0.27970707, b: 0, a: 0}
+    - Color_8c2922b6238f4790940e6ea4f2aa481f: {r: 1, g: 0.8844998, b: 0.41981128, a: 0}
+  m_BuildTextureStacks: []
