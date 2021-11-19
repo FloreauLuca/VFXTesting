@@ -2,14 +2,14 @@
 
 I use this repository to try a lot of VFX techniques.
 
+![Pumpkin](https://github.com/FloreauLuca/VFXTesting/blob/master/Assets/VFX/Pumpkin/Pumpkin.gif)
 
-![Grass](https://github.com/FloreauLuca/LudwigJam/blob/master/Assets/VFX/Grass/grass.mp4)
+![Snow](https://github.com/FloreauLuca/VFXTesting/blob/master/Assets/VFX/Snow/Snow.gif)
 
-![Circles](https://github.com/FloreauLuca/LudwigJam/blob/master/Assets/VFX/Circles/eternals.mp4)
+![Liquid](https://github.com/FloreauLuca/VFXTesting/blob/master/Assets/VFX/Liquid/Liquid.gif)
 
-![HexaScreen](https://github.com/FloreauLuca/LudwigJam/blob/master/Assets/VFX/HexaSreen/HexaScreen.mp4)
+![SDFTriangle](https://github.com/FloreauLuca/VFXTesting/blob/master/Assets/VFX/SDFTriangle/SDFTriangle.gif)
 
-![Snow](https://github.com/FloreauLuca/LudwigJam/blob/master/Assets/VFX/Snow/Snwo.gif)
 
 
 
