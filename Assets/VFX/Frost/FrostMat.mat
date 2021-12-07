@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FrostMat
+  m_Shader: {fileID: -6465566751694194690, guid: cd306511752d8c844a550d03e7b0a199, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_29e934a86f6a4c8a9fae8d7f68d6bea9:
+        m_Texture: {fileID: 2800000, guid: baa2535f9a1d685448834d2ada51e774, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_13e0f5f209f84dd3b2457404a7228f78: 0.58
+    - Vector1_29a79380aec54c43a7e7c16f2f50e202: 1
+    - Vector1_31c20b28ef56481d979c863ff573735b: 3.35
+    - Vector1_462db6b8a66542619b67d250dac3dca7: 0.694
+    - Vector1_46c2f1be0fff42109e6dac7cff667020: 0.64
+    - Vector1_5f178edbc8604ecaa1d890edaffc81bf: 1
+    - Vector1_7359900e78d049ae87ae3af81b8650c2: 0.176
+    - Vector1_db2be8cdbd1c44f396a91f93aeaedc0e: 0.721
+    - _Modifier: 1
+    m_Colors:
+    - Color_84e943178a3d4f048a9fbef1f3bb0938: {r: 1, g: 1, b: 1, a: 0}
+    - Color_a7cab9ef19fd48fa82801a4ef44f5a66: {r: 1.0245068, g: 1.39772, b: 1.324541, a: 1}
+    - Color_ef0c77ad0c6041f68dbf02e0ace1f922: {r: 3.4415908, g: 3.4415908, b: 3.4415908, a: 0}
+    - Vector2_05c17ffd5eba46ff843c4835f85335d9: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

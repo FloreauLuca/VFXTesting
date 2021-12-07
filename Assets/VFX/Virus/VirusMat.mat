@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VirusMat
+  m_Shader: {fileID: -6465566751694194690, guid: 5402fd355fe356b47b824f58ef29551d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0d3168d80f56469082843dd548edf80a: 0
+    - Vector1_155a9a2f2673448fa6f6b5bbaff075f2: 2.99
+    - Vector1_34cd8b65b6e6421582e027c46f3033af: 0.172
+    - Vector1_3b35db0f3cd94bf6b29e817e2adff81f: 1.37
+    - Vector1_4b49fb1f8bc8497f9623471b09828e32: 12.37
+    - Vector1_83bcd651aa84474b9b9b03e04fe0be1b: 1
+    - Vector1_b0fde70d2873486caa58ded8af022cc5: 2.7
+    - Vector1_b439901b9740435fbfed0b595eff2886: 1
+    - Vector1_d9aa69e871e74bed91c3aa80dc583b66: 0.1
+    - Vector1_e57220685fb345efa7b183f58a414f9d: 5
+    - _Modifier: 1
+    m_Colors:
+    - Color_0f18b62b2d634a52b3d4967444763019: {r: 0, g: 0, b: 0, a: 0}
+    - Color_d8be60ce49df412cba6ad1b0e6ae2f2a: {r: 0.00253582, g: 2, b: 0, a: 0}
+    - Vector3_3dea852f34f341d5ac1c99b33d8e19dc: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

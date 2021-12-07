@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GalaxySkybox
+  m_Shader: {fileID: -6465566751694194690, guid: 7361ee2367cc0174fb3271c087bf3696, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_012e570e7e3940cf8c6d9cd34ce3129d: 0
+    - Vector1_9c1e79d636cf491cb4613bf59ab41d17: 0
+    - Vector1_aad746b46912448caeb9adfb461e259f: 50
+    - Vector1_c18dcc0dc09e4088a4911328323a0345: 9.98
+    - Vector1_cc513d9b086941ed9c4fe06be549b170: 57.24
+    m_Colors:
+    - Vector2_33b33af9e2994871b52bb9c0dcf4386b: {r: 0.1, g: 0.9, b: 0, a: 0}
+  m_BuildTextureStacks: []

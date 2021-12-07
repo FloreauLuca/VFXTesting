@@ -37,10 +37,10 @@ Material:
     - Vector1_b59495cecf684aeea917aaf98914c963: 50
     - Vector1_d12f704c628c4791aeb478c23673d84c: 0.11
     - Vector1_d917bbdb472a4a5cb63779be8547144d: 1
-    - _Modifier: 0.16280892
+    - _Modifier: 0.0033543382
     - _ObjRadius: 1
     m_Colors:
     - Vector2_1f29e597d3324a7eb262161bb7f41c45: {r: -2.2, g: -0.5, b: 0, a: 0}
     - Vector3_d1caa833d76645328210590283f18bfd: {r: 7.77, g: 0, b: -1.99, a: 0}
-    - _ObjPos: {r: -100, g: 1.1, b: 3, a: 0}
+    - _ObjPos: {r: -99.74, g: 1.1, b: 5.41, a: 0}
   m_BuildTextureStacks: []

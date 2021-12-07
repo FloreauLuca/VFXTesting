@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EiffelMat
+  m_Shader: {fileID: -6465566751694194690, guid: ce7e4a02f3ab37344a6e2f2ac5b67c59, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Height_: 3.4490116
+    - Modifier_: 1
+    - Power_: 2.7940688
+    - Thickness_: 0.3778961
+    - Tilling_: 4.3770323
+    - Vector1_2b2c85608c054ac484bd0eac7de86d24: 126.48
+    - Vector1_2db92a5ef43c48789b580ce98902a27f: 2.75
+    - Vector1_331f8e34308145548eb46a56d71a4d7b: 2
+    - Vector1_33dff08b06cf4b0996f0e404aa34372b: 0.72
+    - Vector1_b835b49d166f4ce898f81628775ce447: 0.453
+    - Vector1_c76a653e05eb416d98487a8abdbebece: 1.03
+    - Vector1_d3adde1dcfc7496dbee96e3842b134c1: 6
+    - _Modifier: 0.85177845
+    m_Colors:
+    - Color_9fa09157a7bf4ee7aa64bcf7f9ed2a64: {r: 0.4245283, g: 0.23568355, b: 0.006007465, a: 1}
+    - Color_f126048609374974abd92e7a62ba2ab4: {r: 0.24519402, g: 0.46412644, b: 0.5471698, a: 1}
+    - Vector2_393c266479cc4615b01c39a0ffa179d6: {r: -0.2, g: -0.09, b: 0, a: 0}
+  m_BuildTextureStacks: []

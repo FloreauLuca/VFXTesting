@@ -39,7 +39,7 @@ Material:
     - Vector1_a0bf83c7e6404c2a9662a32ac9b6da33: 1.37
     - Vector1_b441e7a7f6654336aa5a42acbc55af80: 10.1
     - Vector1_bc65e74918e742d38d1a72603c18740b: 0.1
-    - _Modifier: 0.01230148
+    - _Modifier: 0.007613065
     m_Colors:
     - Color_a889c8a88e3e4562ad8fbac602b21924: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 0}
   m_BuildTextureStacks: []

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarpetMat
+  m_Shader: {fileID: -6465566751694194690, guid: cb6f3646515694943b09258c6dc56e95, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_5f4e2d05d91649eb978ae44cb5bdf86c:
+        m_Texture: {fileID: 8400000, guid: 3563a2f6b6b892a4eb0dbf877e22f72b, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_50d8ae6a492040aeb1abb5d32d5f521b_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_238ecf12ea604a6f9eb23c81b9c8392f: 3.85
+    - Vector1_2f3dd8144146447d8b559a86a0c49991: 1
+    - Vector1_98399c0d724945ac82e698dca66f5ab4: 0.73
+    - Vector1_a5db61fa8f844c358c46895cadda0262: 3.57
+    - Vector1_db63c1c56d5246279a70bbe8b36d8cc4: 1.63
+    - Vector1_e3db941a33f4466ba07021866f6d4397: 0.5
+    m_Colors: []
+  m_BuildTextureStacks: []

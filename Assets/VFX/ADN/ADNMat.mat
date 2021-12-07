@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ADNMat
+  m_Shader: {fileID: -6465566751694194690, guid: 83a23e62ac3f7b84ab9d4e30998c5299, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_47b297cdd04e43eab7273a4a4921d9b6: 7.16
+    - Vector1_5c7755f98e6a4a30b12755ece3f23cae: 0.14
+    - Vector1_9452d615aba64a69ba9b73e85f476fb3: 81.84
+    - Vector1_d6a8ed58658f478ba38e4a82ed1ba7f6: 1.13
+    m_Colors:
+    - Vector3_60beeec1a1974684b0316881e8e754c1: {r: 2, g: 2, b: 0.5, a: 0}
+  m_BuildTextureStacks: []

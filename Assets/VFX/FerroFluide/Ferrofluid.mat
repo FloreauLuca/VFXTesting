@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ferrofluid
+  m_Shader: {fileID: -6465566751694194690, guid: 167f1e9646f03574b8a2ded825557b5b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0abc1e4a147345dea038976bbe03668d: 1
+    - Vector1_1446d2da5f2b4175af8f4f50a0a8dbf4: 1
+    - Vector1_76b0f8b757834ababa06add756d6cc39: 0.3
+    - Vector1_9c788c7488d148c780aec39fbdac5336: 8.1
+    - Vector1_a66d92bc314e4f04bc09fba738832be3: 3.69
+    - Vector1_a66d92bc314e4f04bc09fba738832be3_1: 3.33
+    - Vector1_cd2083aeb9654ede83415149e337c6a4: 1.12
+    - Vector1_df6ef374459e4065913443b2621744a2: 0
+    - Vector1_e534ccbf4a1544a8a307687509402903: 0.48
+    - Vector1_f1fbfe03c8cb48209e08d88dc8ab26e1: 2.59
+    - Vector1_fd5355602e8848ce9e229c4656111ba8: 32.31
+    m_Colors:
+    - Color_c63b832b60c04e73a81085c9389bd69c: {r: 0, g: 0, b: 0, a: 0}
+    - Color_fc957bd8f3484a7d9a17ebaba0ba8871: {r: 0.5, g: 0.28205338, b: 0.063679226, a: 0}
+    - Vector3_afaec144b9b34990954ab5bfda421f5a: {r: -119.5, g: 2.18, b: 0, a: 0}
+    - _ObjPos: {r: -119.86, g: 1.28, b: 0.74, a: 0}
+  m_BuildTextureStacks: []
