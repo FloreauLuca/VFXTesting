@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WaveMat
-  m_Shader: {fileID: -6465566751694194690, guid: 8efa6cde4d315e84bba9ad4b2e943c37, type: 3}
+  m_Name: GalaxyMat_VFX
+  m_Shader: {fileID: -6465566751694194690, guid: df7e87e6d78120b4bb1358c0d4ca8b9b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -33,15 +33,25 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_0ca53b4693ad4aa5bdf36641d473bf24: 1
+    - Vector1_19e3a9acefcf4119b2402f9085db1084: 0
+    - Vector1_27bb5cead36b4e8da90b2ccfe72855e5: 1
+    - Vector1_45bc94982bcf40ffbc36737efd4d0da5: 1
+    - Vector1_47b825d8d92f4259b7194b43f929c135: 1
+    - Vector1_55fef24ed66d4b1f9961031acf6accf4: 1
+    - Vector1_56609f8327f443a4aab0250df2b2b887: 1
+    - Vector1_5bc987f4de2e4ec5b9a03b3f1da7bc1b: 1
+    - Vector1_6c0893576f804e1f8204886dd40a50d1: 0.1
+    - Vector1_70d188e86a8847de972999e76737097b: 1
+    - Vector1_8d73fa0c09aa4311a995c9003773140b: 1
+    - Vector1_8fe42902a0644d138175313fa8787830: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Range: 0.2
-    - _Speed: 1
-    - _Timer: 5.927909
     m_Colors:
-    - _FocalPoint: {r: 0.75907534, g: 0.6333702, b: 0, a: 0}
+    - Color_62c29db05a4d4aaaa296a56a49b57e43: {r: 0.454, g: 0.454, b: 0.454, a: 1}
+    - Color_6ed15b51e08842b4bcd502bfc74520df: {r: 766.9961, g: 766.9961, b: 766.9961, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &9005271955086424593
+--- !u!114 &2814227101904173291
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

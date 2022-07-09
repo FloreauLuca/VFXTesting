@@ -7,10 +7,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WaveMat
-  m_Shader: {fileID: -6465566751694194690, guid: 8efa6cde4d315e84bba9ad4b2e943c37, type: 3}
+  m_Name: ChocolateCoatingMat
+  m_Shader: {fileID: -6465566751694194690, guid: bf2df6d00365c9142b268a3b19da09d9, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -33,15 +33,25 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _NutDensity: 7.19
+    - _NutHeight: 0.15
+    - _NutSize: 4.85
+    - _Position: 0
+    - _Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Range: 0.2
-    - _Speed: 1
-    - _Timer: 5.927909
+    - _Range: 0.3
+    - _USETIME: 0
+    - _diff: 0.22
+    - _epaisseur: 0.22
+    - _frequancy: 0.2
     m_Colors:
-    - _FocalPoint: {r: 0.75907534, g: 0.6333702, b: 0, a: 0}
+    - _ChocolateColor: {r: 0.2735849, g: 0.123461396, b: 0.0038714774, a: 1}
+    - _Color: {r: 0.33018863, g: 0.22768235, b: 0.15107685, a: 1}
+    - _MilkColor: {r: 0.41509432, g: 0.41509432, b: 0.41509432, a: 1}
+    - _NutColor: {r: 0.4528302, g: 0.11897892, b: 0, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &9005271955086424593
+--- !u!114 &5170982388620500348
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

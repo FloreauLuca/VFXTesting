@@ -46,11 +46,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height_: 2.0929687
+    - Height_: 2.0995677
     - Modifier_: 1
-    - Power_: 2.7849588
-    - Thickness_: 0.44686788
-    - Tilling_: 5.9202075
+    - Power_: 2.7850046
+    - Thickness_: 0.44652244
+    - Tilling_: 5.91243
     - Vector1_2b2c85608c054ac484bd0eac7de86d24: 126.48
     - Vector1_2db92a5ef43c48789b580ce98902a27f: 2.75
     - Vector1_331f8e34308145548eb46a56d71a4d7b: 2
@@ -58,7 +58,7 @@ Material:
     - Vector1_b835b49d166f4ce898f81628775ce447: 0.453
     - Vector1_c76a653e05eb416d98487a8abdbebece: 1.03
     - Vector1_d3adde1dcfc7496dbee96e3842b134c1: 6
-    - _Modifier: 0.003995944
+    - _Modifier: 0.017882267
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
