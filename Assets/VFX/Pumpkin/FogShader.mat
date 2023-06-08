@@ -12,23 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 6
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: FogShader
   m_Shader: {fileID: -6465566751694194690, guid: 3d5829ff1cb3a644f8eb751b48c52d61, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -56,6 +60,8 @@ Material:
     - Vector1_cf11f484f02f4ab9858fb2a4d93c29b5: 0
     - Vector1_cf11f484f02f4ab9858fb2a4d93c29b5_1: 0
     - Vector1_f55a2201253245779e4c14b69a28c961: 6.4
+    - _QueueControl: 0
+    - _QueueOffset: 0
     m_Colors:
     - Color_04d850c1a02f4e20931027b89c5ab954: {r: 1, g: 0.58853775, b: 0.32547167, a: 1}
     - Color_9819e65198244645961520465d34ce8f: {r: 1.2862746, g: 0.45490196, b: 0, a: 1}

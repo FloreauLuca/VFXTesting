@@ -2,20 +2,24 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CarpetMat
   m_Shader: {fileID: -6465566751694194690, guid: cb6f3646515694943b09258c6dc56e95, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -41,12 +45,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Vector1_238ecf12ea604a6f9eb23c81b9c8392f: 3.85
+    - Vector1_238ecf12ea604a6f9eb23c81b9c8392f: 5.74
     - Vector1_2f3dd8144146447d8b559a86a0c49991: 1
     - Vector1_98399c0d724945ac82e698dca66f5ab4: 0.73
-    - Vector1_a5db61fa8f844c358c46895cadda0262: 3.57
-    - Vector1_db63c1c56d5246279a70bbe8b36d8cc4: 1.63
-    - Vector1_e3db941a33f4466ba07021866f6d4397: 0.5
+    - Vector1_a5db61fa8f844c358c46895cadda0262: 4.14
+    - Vector1_db63c1c56d5246279a70bbe8b36d8cc4: 1.46
+    - Vector1_e3db941a33f4466ba07021866f6d4397: 0.7
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
@@ -63,4 +67,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 6

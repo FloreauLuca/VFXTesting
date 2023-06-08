@@ -12,23 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 6
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: HexaMat
   m_Shader: {fileID: -6465566751694194690, guid: 8ed2d861319b76f408c97f4b7e759ad4, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -59,6 +63,8 @@ Material:
     - Vector1_0e77d3c4f97848e59c9d33b583ae4554: 10
     - Vector1_3846c912cebf461580d6a199b6588d97: 1
     - Vector1_efa96596db504e6abd55e91bc44ef504: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
     m_Colors:
     - Vector2_7390f443cc014d87a0e2f94c3bed76ad: {r: 1.5, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []

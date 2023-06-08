@@ -12,23 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 6
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Planet
   m_Shader: {fileID: -6465566751694194690, guid: da1086838875133449cf0016230967e3, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -53,7 +57,7 @@ Material:
     - Vector1_a0bf83c7e6404c2a9662a32ac9b6da33: 1.37
     - Vector1_b441e7a7f6654336aa5a42acbc55af80: 10.1
     - Vector1_bc65e74918e742d38d1a72603c18740b: 0.1
-    - _Modifier: 0.012414405
+    - _Modifier: 1.0062939
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:

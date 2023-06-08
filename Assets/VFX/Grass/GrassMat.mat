@@ -12,23 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 6
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: GrassMat
   m_Shader: {fileID: -6465566751694194690, guid: f62de1e6d4db5364096243586c181489, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -51,12 +55,12 @@ Material:
     - Vector1_b59495cecf684aeea917aaf98914c963: 50
     - Vector1_d12f704c628c4791aeb478c23673d84c: 0.11
     - Vector1_d917bbdb472a4a5cb63779be8547144d: 1
-    - _Modifier: 0.0052342955
+    - _Modifier: 0.98605675
     - _ObjRadius: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - Vector2_1f29e597d3324a7eb262161bb7f41c45: {r: -2.2, g: -0.5, b: 0, a: 0}
     - Vector3_d1caa833d76645328210590283f18bfd: {r: 7.77, g: 0, b: -1.99, a: 0}
-    - _ObjPos: {r: -99.74, g: 1.1, b: 5.41, a: 0}
+    - _ObjPos: {r: -139.74, g: 1.1, b: 2.41, a: 0}
   m_BuildTextureStacks: []
